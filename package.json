@@ -1,0 +1,38 @@
+{
+    "name" : "jaCodeMap",
+    "keywords": [
+        "japanese",
+        "unicode",
+        "converter"
+    ],
+    "description": "japanese unicode full/half width code mapping library",
+    "homepage": "http://github.com/mah0x211/jaCodeMap",
+    "version" : "0.0.1",
+    "license" : [
+        {
+            "type": "BSD" 
+        } 
+    ],
+    "main" : "./lib/jaCodeMap",
+    "directories" : {
+        "lib" : "./lib" 
+    },
+    "engines" : {
+        "node" : ">= 0.3.7" 
+    },
+    "maintainers": [
+        {
+            "name": "Masatoshi Teruya",
+            "email": "mah0x211@gmail",
+            "web": "http://kontext.jp/" 
+        } 
+    ],
+    "repository": {
+        "type" : "git",
+        "url": "http://github.com/mah0x211/jaCodeMap.git" 
+    },
+    "bugs" : {
+        "mail" : "" ,
+        "web" : "http://github.com/mah0x211/jaCodeMap/issues" 
+    }
+}
