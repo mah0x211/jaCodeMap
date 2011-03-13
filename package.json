@@ -7,7 +7,7 @@
     ],
     "description": "japanese unicode full/half width code mapping library",
     "homepage": "http://github.com/mah0x211/jaCodeMap",
-    "version" : "0.0.1",
+    "version" : "0.0.3",
     "license" : [
         {
             "type": "BSD" 
